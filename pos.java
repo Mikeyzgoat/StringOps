@@ -1,6 +1,6 @@
 package StringOps;
 // parts of speech analyser
-import java .util.Scanner;   
+import java.util.Scanner;   
 
 public class pos {
     // input string
